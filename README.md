@@ -1,2 +1,3 @@
 # hello-world
-Testing
+
+An introvert exploring the world of GitHub.
